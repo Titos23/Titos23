@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Titos23.
-- 👀 I’m interested in Web developing and programing.
+- 👀 I’m interested in astronomics, space and computer science.
 - 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking forward to collaborate on projects in order to help me improving my skills.
 - 📫 How to reach me : on Twitter (@Starktitos).
